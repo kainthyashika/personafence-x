@@ -1,0 +1,12 @@
+.title {
+    content-align: center middle;
+    height: 3;
+    background: $surface;
+    color: cyan;
+}
+
+.menu {
+    align: center middle;
+    padding: 1 2;
+    height: auto;
+}

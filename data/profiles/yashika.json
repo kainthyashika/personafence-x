@@ -1,0 +1,9 @@
+{
+    "user": "yashika",
+    "avg_features": {
+        "avg_word_length": 4.306475730388773,
+        "avg_sentence_length": 8.333333333333332,
+        "punctuation_freq": 0.0,
+        "vocab_richness": 0.9233954451345756
+    }
+}
